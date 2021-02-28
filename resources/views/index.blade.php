@@ -167,7 +167,7 @@
     <!--==========================
       Services Section
     ============================-->
-    <section id="services">
+    <!--<section id="services">
       <div class="container">
         <div class="section-header">
           <h2>Productos</h2>
@@ -198,31 +198,237 @@
         </div>
 
       </div>
-    </section><!-- #services -->
+    </section>--><!-- #services -->
 
     <!--==========================
       Clients Section
     ============================-->
-    <!--<section id="clients" class="wow fadeInUp">
-      <div class="container">
+    <!--<!-- Demo header-->
+<section class="py-5 header">
+    <div class="container py-4">
         <div class="section-header">
-          <h2>Clients</h2>
-          <p>Sed tamen tempor magna labore dolore dolor sint tempor duis magna elit veniam aliqua esse amet veniam enim export quid quid veniam aliqua eram noster malis nulla duis fugiat culpa esse aute nulla ipsum velit export irure minim illum fore</p>
+          <h2>Productos</h2>
+          <p>Nuestros productos son de alta calidad y de precio muy competitivo
+             asimismo, ponemos a su disposición:
+          </p>
         </div>
 
-        <div class="owl-carousel clients-carousel">
-          <img src="img/clients/client-1.png" alt="">
-          <img src="img/clients/client-2.png" alt="">
-          <img src="img/clients/client-3.png" alt="">
-          <img src="img/clients/client-4.png" alt="">
-          <img src="img/clients/client-5.png" alt="">
-          <img src="img/clients/client-6.png" alt="">
-          <img src="img/clients/client-7.png" alt="">
-          <img src="img/clients/client-8.png" alt="">
-        </div>
+        <div class="row">
+            <div class="col-md-3">
+                <!-- Tabs nav -->
+                <div class="nav flex-column nav-pills nav-pills-custom" id="v-pills-tab" role="tablist" aria-orientation="vertical">
+                    <a class="nav-link mb-3 p-3 shadow active" id="v-pills-home-tab" data-toggle="pill" href="#v-pills-home" role="tab" aria-controls="v-pills-home" aria-selected="true">
+                        <i class="fa fa-user-circle-o mr-2"></i>
+                        <span class="font-weight-bold small text-uppercase">PRODUCTOS DE DESINFECCIÓN HOSPITALARIA Y PERSONAL</span></a>
 
-      </div>
-    </section>--><!-- #clients -->
+                    <a class="nav-link mb-3 p-3 shadow" id="v-pills-profile-tab" data-toggle="pill" href="#v-pills-profile" role="tab" aria-controls="v-pills-profile" aria-selected="false">
+                        <i class="fa fa-calendar-minus-o mr-2"></i>
+                        <span class="font-weight-bold small text-uppercase">GUANTES</span></a>
+
+                    <a class="nav-link mb-3 p-3 shadow" id="v-pills-messages-tab" data-toggle="pill" href="#v-pills-messages" role="tab" aria-controls="v-pills-messages" aria-selected="false">
+                        <i class="fa fa-star mr-2"></i>
+                        <span class="font-weight-bold small text-uppercase">PRODUCTOS DE MEDICIÓN</span></a>
+
+                    <a class="nav-link mb-3 p-3 shadow" id="v-pills-settings-tab" data-toggle="pill" href="#v-pills-settings" role="tab" aria-controls="v-pills-settings" aria-selected="false">
+                        <i class="fa fa-check mr-2"></i>
+                        <span class="font-weight-bold small text-uppercase">ROPA DESCARTABLE</span></a>
+                    </div>
+            </div>
+
+
+            <div class="col-md-9">
+                <!-- Tabs content -->
+                <div class="tab-content" id="v-pills-tabContent">
+                    <div class="tab-pane fade shadow rounded bg-white show active p-5" id="v-pills-home" role="tabpanel" aria-labelledby="v-pills-home-tab">
+                        <h4>Alcohol </h4>
+                        <div class="card-deck">
+                          <div class="card">
+                            <div class="card-body">
+                              <img class="card-img-top" src="index/img/productos/alcohol96.png" alt="Card image cap"> 
+                            </div>
+                            <div class="card-footer">
+                                  <p class="card-text" style="text-align: center;">Alcohol Liquido 96%.</p>
+                            </div>
+                          </div>
+                          <div class="card">
+                            <div class="card-body">
+                              <img class="card-img-top" src="index/img/productos/alcohol70.png" alt="Card image cap"> 
+                            </div>
+                            <div class="card-footer">
+                                  <p class="card-text" style="text-align: center;">Alcohol Liquido 70%.</p>
+                            </div>
+                          </div>
+                          <div class="card">
+                            <div class="card-body">
+                              <img class="card-img-top" src="index/img/productos/alcohol gel.png" alt="Card image cap"> 
+                            </div>
+                            <div class="card-footer">
+                                  <p class="card-text" style="text-align: center;">Alcohol en Gel.</p>
+                            </div>
+                          </div>
+                          
+                        </div>
+                        <br>
+                        <h4>Amonio Cuaternario</h4>
+                        <div class="col-md-4">
+                        <div class="card">
+                          <div class="card-body">
+                              <img class="card-img-top" src="index/img/productos/amonio.png" alt="Card image cap"> 
+                            </div>
+                            <div class="card-footer">
+                                <p class="card-text" style="text-align: center;">Amonio Cuaternario.</p>
+                            </div>
+                          </div>
+                        </div>
+                    </div>
+                    
+                    <div class="tab-pane fade shadow rounded bg-white p-5" id="v-pills-profile" role="tabpanel" aria-labelledby="v-pills-profile-tab">
+                        <h4>Guantes </h4>
+                        <div class="card-deck">
+                          <div class="card">
+                            <div class="card-body">
+                              <img class="card-img-top" src="index/img/productos/guante vinilo.png" alt="Card image cap"> 
+                            </div>
+                            <div class="card-footer">
+                                  <p class="card-text" style="text-align: center;">Guantes de Vinilo.</p>
+                            </div>
+                          </div>
+                          <div class="card">
+                            <div class="card-body">
+                              <img class="card-img-top" src="index/img/productos/guante nitrilo.png" alt="Card image cap"> 
+                            </div>
+                            <div class="card-footer">
+                                  <p class="card-text" style="text-align: center;">Guantes de Nitrilo.</p>
+                            </div>
+                          </div>
+                          <div class="card">
+                            <div class="card-body">
+                              <img class="card-img-top" src="index/img/productos/guante latex.png" alt="Card image cap"> 
+                            </div>
+                            <div class="card-footer">
+                                  <p class="card-text" style="text-align: center;">Guantes de Latex.</p>
+                            </div>
+                          </div>
+                          
+                        </div>
+                    </div>
+                    
+                    <div class="tab-pane fade shadow rounded bg-white p-5" id="v-pills-messages" role="tabpanel" aria-labelledby="v-pills-messages-tab">
+                        <h4>Productos de Medición </h4>
+                        <div class="card-deck">
+                          <div class="card">
+                            <div class="card-body">
+                              <img class="card-img-top" src="index/img/productos/oximetro.png" alt="Card image cap"> 
+                            </div>
+                            <div class="card-footer">
+                                  <p class="card-text" style="text-align: center;">Oximetro.</p>
+                            </div>
+                          </div>
+                          <div class="card">
+                            <div class="card-body">
+                              <img class="card-img-top" src="index/img/productos/glucometro.png" alt="Card image cap"> 
+                            </div>
+                            <div class="card-footer">
+                                  <p class="card-text" style="text-align: center;">Glucometro.</p>
+                            </div>
+                          </div>
+                          <div class="card">
+                            <div class="card-body">
+                              <img class="card-img-top" src="index/img/productos/tensiometro.png" alt="Card image cap"> 
+                            </div>
+                            <div class="card-footer">
+                                  <p class="card-text" style="text-align: center;">Tensiometro.</p>
+                            </div>
+                          </div>
+                          
+                        </div>
+                        <br>
+                        <div class="card-deck">
+                          <div class="card">
+                            <div class="card-body">
+                              <img class="card-img-top" src="index/img/productos/tensiometro2.png" alt="Card image cap"> 
+                            </div>
+                            <div class="card-footer">
+                                  <p class="card-text" style="text-align: center;">Tensiometro.</p>
+                            </div>
+                          </div>
+                          <div class="card">
+                            <div class="card-body">
+                              <img class="card-img-top" src="index/img/productos/tallimetro.png" alt="Card image cap"> 
+                            </div>
+                            <div class="card-footer">
+                                  <p class="card-text" style="text-align: center;">Balanza Tallimetro.</p>
+                            </div>
+                          </div>
+                          <div class="card">
+                            <div class="card-body">
+                              <img class="card-img-top" src="index/img/productos/microanalitica.png" alt="Card image cap"> 
+                            </div>
+                            <div class="card-footer">
+                                  <p class="card-text" style="text-align: center;">Balanza Microanalitica.</p>
+                            </div>
+                          </div>
+                          
+                        </div>
+                    </div>
+                    
+                    <div class="tab-pane fade shadow rounded bg-white p-5" id="v-pills-settings" role="tabpanel" aria-labelledby="v-pills-settings-tab">
+                        <h4>Ropa Descartable </h4>
+                        <div class="card-deck">
+                          <div class="card">
+                            <div class="card-body">
+                              <img class="card-img-top" src="index/img/productos/mandil.png" alt="Card image cap"> 
+                            </div>
+                            <div class="card-footer">
+                                  <p class="card-text" style="text-align: center;">Mandil Descartable.</p>
+                            </div>
+                          </div>
+                          <div class="card">
+                            <div class="card-body">
+                              <img class="card-img-top" src="index/img/productos/zapato.png" alt="Card image cap"> 
+                            </div>
+                            <div class="card-footer">
+                                  <p class="card-text" style="text-align: center;">Cubre Zapato Descartable.</p>
+                            </div>
+                          </div>
+                          <div class="card">
+                            <div class="card-body">
+                              <img class="card-img-top" src="index/img/productos/gorro.png" alt="Card image cap"> 
+                            </div>
+                            <div class="card-footer">
+                                  <p class="card-text" style="text-align: center;">Gorro.</p>
+                            </div>
+                          </div>
+                        </div>
+                        <br>
+                        <div class="card-deck">
+                          <div class="card">
+                            <div class="card-body">
+                              <img class="card-img-top" src="index/img/productos/gorro cirujano.png" alt="Card image cap"> 
+                            </div>
+                            <div class="card-footer">
+                                  <p class="card-text" style="text-align: center;">Gorro Cirujano.</p>
+                            </div>
+                          </div>
+                          <div class="card">
+                            <div class="card-body">
+                              <img class="card-img-top" src="index/img/productos/chaqueta.png" alt="Card image cap"> 
+                            </div>
+                            <div class="card-footer">
+                                  <p class="card-text" style="text-align: center;">Chaqueta Descartable.</p>
+                            </div>
+                          </div>
+                          <div class="col-md-4">
+                            
+                          </div>
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
 
     <!--==========================
       Our Portfolio Section
