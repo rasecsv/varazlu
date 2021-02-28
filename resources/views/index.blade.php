@@ -60,7 +60,7 @@
   <!--==========================
     Header
   ============================-->
-  <header id="header">
+  <header id="header"  style="color=#0c2e8a;">
     <div class="container">
 
       <div id="logo" class="pull-left">
@@ -116,17 +116,17 @@
           <div class="col-lg-6">
             <div class="box wow fadeInLeft">
               <div class="icon"></div>
-              <h4 class="title" style="color:#007bff; font-weight: bold;"><a>¿Quienes Somos?</a></h4>
-              <p class="description">Somos VARAZLU es una empresa joven proveedora del sector público y privado, 
-                                     se constituye con la finalidad de cubrir las necesidades del mercado que demanda 
-                                     servicios de calidad con respecto a este sector de servicios generales,
-                                     teniendo como objetivo brindar el servicio necesario y adecuado en cada uno 
-                                     de estos campos.</p>
+              <h2 class="title" style="color:#0c2e8a; font-weight: bold; margin-top:10%;"><a>¿Quienes Somos?</a></h2>
+              <p class="description">VARAZLU es una empresa joven proveedora del sector público y privado de insumos médicos, 
+                                    equipo de protección personal, venta de productos de desinfección hospitalaria y personal, 
+                                    productos de medición y productos comestibles no perecibles. Nuestra empresa se constituye 
+                                    con la finalidad de cubrir las necesidades del mercado distribución por mayor y menor, 
+                                    teniendo como objetivo brindar el servicio necesario y adecuado en cada uno de estos campos.</p>
             </div>
           </div>
           <div class="col-lg-6 about-img">
-            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn0Y5gIiY5iVK2FZoG5Hm3eZDhbsQSN-7fpA&usqp=CAU" 
-                 style="margin-left: auto; margin-right: auto; display: block; margin-top: 15%;"
+            <img src="https://www.etitulo.com/wp-content/uploads/2019/02/habilidades-sociales.jpg" 
+                 style="margin-left: auto; margin-right: auto; display: block; margin-top: 3%;"
                  alt="img">
           </div>
         </div>
@@ -500,7 +500,7 @@
     <!--==========================
       Contact Section
     ============================-->
-    <section id="contact" class="wow fadeInUp">
+    <section id="contact" class="wow fadeInUp" style="background-color: ">
       <div class="container">
         <div class="section-header">
           <h2>Contactenos</h2>
@@ -521,7 +521,9 @@
             <div class="contact-phone">
               <i class="ion-ios-telephone-outline"></i>
               <h3>Telefono</h3>
-              <p><a href="tel:+155895548855">+1 5589 55488 55</a></p>
+              <p><a>+51 973022651</a></p>
+              <p><a>+51 929184418</a></p>
+              <p><a>+51 941455275</a></p>
             </div>
           </div>
 
