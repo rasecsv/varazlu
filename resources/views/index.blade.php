@@ -60,7 +60,7 @@
   <!--==========================
     Header
   ============================-->
-  <header id="header"  style="color=#0c2e8a;">
+  <header id="header"  style="background-color:#0c2e8a;">
     <div class="container">
 
       <div id="logo" class="pull-left">
@@ -71,12 +71,12 @@
 
       <nav id="nav-menu-container">
         <ul class="nav-menu">
-          <li class="menu-active"><a href="#body">Inicio</a></li>
-          <li><a href="#about">Sobre Nosotros</a></li>
-          <li><a href="#services">Productos</a></li>
-          <li><a href="#portfolio">Galeria</a></li>
+          <li class="menu-active"><a href="#body" style="color:#fff;">Inicio</a></li>
+          <li ><a href="#about" style="color:#fff;">Sobre Nosotros</a></li>
+          <li ><a href="#services" style="color:#fff;">Productos</a></li>
+          <li ><a href="#portfolio" style="color:#fff;">Galeria</a></li>
           <!--<li><a href="#team">Team</a></li>-->
-          <li><a href="#contact">Contactenos</a></li>
+          <li ><a href="#contact" style="color:#fff;">Contactenos</a></li>
         </ul>
       </nav><!-- #nav-menu-container -->
     </div>
@@ -578,7 +578,12 @@
     Footer
   ============================-->
   <footer id="footer">
-    
+    <div class="col-md-12">
+      <div class="col-md-10"></div>
+      <div class="col-md-10">
+        <a href="https://www.facebook.com/distribuidoraVarazlu/"><img src="https://anthoncode.com/wp-content/uploads/2019/07/logotipo-facebook.png" width="10%;" height="10%;" style="margin-left: 75%;"></a>
+      </div>
+    </div>
     <div class="container">
       <div class="copyright">
         &copy;<strong></strong> Derechos Reservados
