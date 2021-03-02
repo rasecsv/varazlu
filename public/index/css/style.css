@@ -39,7 +39,8 @@ h6 {
 .back-to-top {
   position: fixed;
   display: none;
-  background: #50d8af;
+ /* background: #50d8af;*/
+ background: #428864;
   color: #fff;
   padding: 6px 12px 9px 12px;
   font-size: 16px;

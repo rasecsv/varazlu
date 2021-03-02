@@ -446,8 +446,8 @@
 
           <div class="col-lg-3 col-md-4">
             <div class="portfolio-item wow fadeInUp">
-              <a href="index/img/portfolio/1.jpg" class="portfolio-popup">
-                <img src="index/img/portfolio/1.jpg" alt="">
+              <a href="index/img/productos/chaqueta.png" class="portfolio-popup">
+                <img src="index/img/productos/chaqueta.png" alt="">
                 <div class="portfolio-overlay">
                   <div class="portfolio-info"><h2 class="wow fadeInUp"></h2></div>
                 </div>
@@ -457,8 +457,8 @@
 
           <div class="col-lg-3 col-md-4">
             <div class="portfolio-item wow fadeInUp">
-              <a href="index/img/portfolio/2.jpg" class="portfolio-popup">
-                <img src="index/img/portfolio/2.jpg" alt="">
+              <a href="index/img/productos/gorro cirujano.png" class="portfolio-popup">
+                <img src="index/img/productos/gorro cirujano.png" alt="">
                 <div class="portfolio-overlay">
                   <div class="portfolio-info"><h2 class="wow fadeInUp"></h2></div>
                 </div>
@@ -468,8 +468,8 @@
 
           <div class="col-lg-3 col-md-4">
             <div class="portfolio-item wow fadeInUp">
-              <a href="index/img/portfolio/3.jpg" class="portfolio-popup">
-                <img src="index/img/portfolio/3.jpg" alt="">
+              <a href="index/img/productos/zapato.png" class="portfolio-popup">
+                <img src="index/img/productos/zapato.png" alt="">
                 <div class="portfolio-overlay">
                   <div class="portfolio-info"><h2 class="wow fadeInUp"></h2></div>
                 </div>
@@ -479,8 +479,8 @@
 
           <div class="col-lg-3 col-md-4">
             <div class="portfolio-item wow fadeInUp">
-              <a href="index/img/portfolio/4.jpg" class="portfolio-popup">
-                <img src="index/img/portfolio/4.jpg" alt="">
+              <a href="index/img/productos/mandil.png" class="portfolio-popup">
+                <img src="index/img/productos/mandil.png" alt="">
                 <div class="portfolio-overlay">
                   <div class="portfolio-info"><h2 class="wow fadeInUp"></h2></div>
                 </div>
@@ -490,8 +490,8 @@
 
           <div class="col-lg-3 col-md-4">
             <div class="portfolio-item wow fadeInUp">
-              <a href="index/img/portfolio/5.jpg" class="portfolio-popup">
-                <img src="index/img/portfolio/5.jpg" alt="">
+              <a href="index/img/productos/oximetro.png" class="portfolio-popup">
+                <img src="index/img/productos/oximetro.png" alt="">
                 <div class="portfolio-overlay">
                   <div class="portfolio-info"><h2 class="wow fadeInUp"></h2></div>
                 </div>
@@ -501,8 +501,8 @@
 
           <div class="col-lg-3 col-md-4">
             <div class="portfolio-item wow fadeInUp">
-              <a href="index/img/portfolio/6.jpg" class="portfolio-popup">
-                <img src="index/img/portfolio/6.jpg" alt="">
+              <a href="index/img/productos/alcohol96.png" class="portfolio-popup">
+                <img src="index/img/productos/alcohol96.png" alt="">
                 <div class="portfolio-overlay">
                   <div class="portfolio-info"><h2 class="wow fadeInUp"></h2></div>
                 </div>
@@ -512,8 +512,8 @@
 
           <div class="col-lg-3 col-md-4">
             <div class="portfolio-item wow fadeInUp">
-              <a href="index/img/portfolio/7.jpg" class="portfolio-popup">
-                <img src="index/img/portfolio/7.jpg" alt="">
+              <a href="index/img/productos/glucometro.png" class="portfolio-popup">
+                <img src="index/img/productos/glucometro.png" alt="">
                 <div class="portfolio-overlay">
                   <div class="portfolio-info"><h2 class="wow fadeInUp"></h2></div>
                 </div>
@@ -523,8 +523,8 @@
 
           <div class="col-lg-3 col-md-4">
             <div class="portfolio-item wow fadeInUp">
-              <a href="index/img/portfolio/8.jpg" class="portfolio-popup">
-                <img src="index/img/portfolio/8.jpg" alt="">
+              <a href="index/img/productos/alcohol gel.png" class="portfolio-popup">
+                <img src="index/img/productos/alcohol gel.png" alt="">
                 <div class="portfolio-overlay">
                   <div class="portfolio-info"><h2 class="wow fadeInUp"></h2></div>
                 </div>
