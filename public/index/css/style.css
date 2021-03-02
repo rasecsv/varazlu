@@ -5,14 +5,14 @@ body {
 }
 
 a {
-  color: #50d8af;
+  color: #428864;
   transition: 0.5s;
 }
 
 a:hover,
 a:active,
 a:focus {
-  color: #51d8af;
+  color: #428864;
   outline: none;
   text-decoration: none;
 }
@@ -340,7 +340,8 @@ h6 {
 
 .nav-menu li:hover > a,
 .nav-menu .menu-active > a {
-  color: #ff8e02;
+ /* color: #ff8e02;*/
+ color: #428864;
 }
 
 .nav-menu > li {
@@ -397,7 +398,11 @@ h6 {
 }
 
 /* Mobile Nav Styling */
-
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    color: #fff;
+    background-color: #428864;
+}
+/**/
 #mobile-nav {
   position: fixed;
   top: 0;

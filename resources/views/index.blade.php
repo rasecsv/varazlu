@@ -91,7 +91,7 @@
       <h2>Especialistas  en equipos<br>médicos</h2>
       <div>
         <a href="#about" class="btn-get-started scrollto">Sobre nosotros</a>
-        <a href="#portfolio" class="btn-projects scrollto">Galeria</a>
+        <!--<a href="#portfolio" class="btn-projects scrollto">Galeria</a>-->
       </div>
     </div>
 
@@ -116,7 +116,7 @@
           <div class="col-lg-6">
             <div class="box wow fadeInLeft">
               <div class="icon"></div>
-              <h2 class="title" style="color:#0c2e8a; font-weight: bold; margin-top:10%;"><a>¿Quienes Somos?</a></h2>
+              <h2 class="title" style="color:#0c2e8a; font-weight: bold; margin-top:10%;"><a>¿Quiénes Somos?</a></h2>
               <p class="description">VARAZLU es una empresa joven proveedora del sector público y privado de insumos médicos, 
                                     equipo de protección personal, venta de productos de desinfección hospitalaria y personal, 
                                     productos de medición y productos comestibles no perecibles. Nuestra empresa se constituye 
