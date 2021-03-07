@@ -88,7 +88,7 @@
   <section id="intro">
 
     <div class="intro-content">
-      <h2>Especialistas  en equipos<br>médicos</h2>
+      <h2>Equipos e insumos médicos<br>en general</h2>
       <div>
         <a href="#about" class="btn-get-started scrollto">Sobre nosotros</a>
         <!--<a href="#portfolio" class="btn-projects scrollto">Galeria</a>-->
@@ -117,7 +117,7 @@
             <div class="box wow fadeInLeft">
               <div class="icon"></div>
               <h2 class="title" style="color:#0c2e8a; font-weight: bold; margin-top:10%;"><a>¿Quiénes Somos?</a></h2>
-              <p class="description">VARAZLU es una empresa joven proveedora del sector público y privado de insumos médicos, 
+              <p class="description">VARAZLU es una empresa proveedora del sector público y privado de insumos médicos, 
                                     equipo de protección personal, venta de productos de desinfección hospitalaria y personal, 
                                     productos de medición y productos comestibles no perecibles. Nuestra empresa se constituye 
                                     con la finalidad de cubrir las necesidades del mercado distribución por mayor y menor, 
@@ -144,14 +144,14 @@
           <div class="col-lg-6">
             <div class="box wow fadeInLeft">
               <div class="icon"></div>
-              <h4 class="title" style="color:#007bff; font-weight: bold;"><a>Misión</a></h4>
+              <h4 class="title" style="color:#0c2e8a; font-weight: bold;"><a>Misión</a></h4>
               <p class="description">Proveer de material médico a todas las empresas del sector público y privado 
                                      en todo territorio nacional, con el compromiso de satisfacer los requerimientos
                                      de nuestros clientes y contribuir al bienestar de las familias peruanas.</p>
             </div>
             <div class="box wow fadeInLeft">
               <div class="icon"></div>
-              <h4 class="title" style="color:#007bff; font-weight: bold;"><a>Visión</a></h4>
+              <h4 class="title" style="color:#0c2e8a; font-weight: bold;"><a>Visión</a></h4>
               <p class="description">Buscamos consolidarnos como una empresa líder y competitiva 
                                     dentro del sector público y privado, ofreciendo productos de calidad, 
                                     actuando con responsabilidad y respeto con los clientes y proveedores 
