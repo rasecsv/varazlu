@@ -97,10 +97,10 @@
 
     <div id="intro-carousel" class="owl-carousel" >
       <div class="item" style="background-image: url('index/img/intro-carousel/equipo_medico.jpg');"></div>
-      <div class="item" style="background-image: url('index/img/intro-carousel/2.jpg');"></div>
-      <div class="item" style="background-image: url('index/img/intro-carousel/3.jpg');"></div>
-      <div class="item" style="background-image: url('index/img/intro-carousel/4.jpg');"></div>
-      <div class="item" style="background-image: url('index/img/intro-carousel/5.jpg');"></div>
+      <div class="item" style="background-image: url('index/img/intro-carousel/banner2.png');"></div>
+      <div class="item" style="background-image: url('index/img/intro-carousel/banner3.jpg');"></div>
+      <!--<div class="item" style="background-image: url('index/img/intro-carousel/4.jpg');"></div>
+      <div class="item" style="background-image: url('index/img/intro-carousel/5.jpg');"></div>-->  
     </div>
 
   </section><!-- #intro -->
@@ -709,7 +709,7 @@
     <section id="contact" class="wow fadeInUp" style="background-color: ">
       <div class="container">
         <div class="section-header">
-          <h2>Contactenos</h2>
+          <h2>Contáctenos</h2>
           <p></p>
         </div>
 
